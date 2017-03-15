@@ -1,0 +1,76 @@
+.logo{
+	align-items: center;
+	display: flex;
+	padding-top: 5px;
+}
+.logo img{
+	width: 45px;
+	height: 45px;
+}
+.logo span{
+	font-size: 28px;
+	padding-left: 15px;
+
+}
+#PCFooter .footer{
+	text-align: center;
+	padding-top: 180px;
+}
+.register{
+	float: right !important;
+}
+.container{padding-top: 15px;}
+.leftContainer{width: 400px;float: left;}
+.carousel{width: 400px;float: left; margin-bottom: 10px}
+.topNewsList {
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.topNewsList a {
+    line-height: 24px !important;
+    color: #666 !important;
+		font-size: 12px;
+}
+.topNewsList a:hover{
+  text-decoration: underline;
+}
+.tabs_news {
+    padding-left: 15px;
+    width: 460px;
+    float: left;
+}
+
+/*image block******START*****/
+.imageblock {
+    float: left;
+}
+.custom-card {
+    padding: 5px;
+}
+.custom-card p {
+    color: #999;
+}
+/*image block******END*****/
+.pc_news_details_container{
+	margin-top: 10px;
+}
+.pc_news_details_container .articleContainer{
+	margin-bottom: 53px;
+}
+/*header*/
+.header_usercenter{
+	float: left;
+}
+.header_usernickname{
+	width: 60px;
+	white-space: nowrap;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+}
+/* usercenter*/
+.usercenterContainer{
+	margin: 50px 0 0 0;
+}
